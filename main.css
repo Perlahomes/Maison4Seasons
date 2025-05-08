@@ -12,7 +12,7 @@ body {
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/Fonto_maison.jpg'); /* Add a semi-transparent overlay */
     background-size: cover;
     background-position: center;
-    background-attachment: fixed;
+    background-attachment:fixed;
     color: white;
 }
 
@@ -293,4 +293,8 @@ h1 {
 
 .social-media a:nth-child(2) .social-icon:hover {
     color: #e4405f;  /* Change color on hover (red/pink for Instagram) */
+}
+#phone{
+    color: white;
+
 }
